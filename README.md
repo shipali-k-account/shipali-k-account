@@ -39,8 +39,8 @@
 
 ## 💬 Dev Quote  
 
-> 💡 *"First, solve the problem. Then, write the code."*  
-> — **John Johnson**
+![Quote](https://img.shields.io/badge/%F0%9F%A7%A0%20First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%20--%20John%20Johnson-%23ff4b5c?style=for-the-badge)
+
 
 ---
 
