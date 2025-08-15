@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  🚀 Open to exciting **Python projects**, web development collaborations, and **open-source contributions**!  
+  🚀 Open to exciting Python projects, web development collaborations, and open-source contributions.
 </p>
 
 
