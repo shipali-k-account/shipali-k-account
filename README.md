@@ -55,5 +55,19 @@
 
 
 
-💌 **Let's Collaborate!** — Reach me via [LinkedIn](https://www.linkedin.com/in/shipali-k-a38b42291/) or [Email](mailto:preethikotyan17@gmail.com)
+## 💌 Let's Collaborate!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shipali-k-a38b42291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:preethikotyan17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🚀 Open to exciting **Python projects**, web development collaborations, and **open-source contributions**!  
+</p>
+
 
