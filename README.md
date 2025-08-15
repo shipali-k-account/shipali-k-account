@@ -9,43 +9,23 @@
 - 🎯 Goal: Become a **full-time software developer** and active open-source contributor.
 - 
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shipali-k-a38b42291/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/shipali-k-account)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=google-chrome&logoColor=white)](https://my-portfolio1-0yld.onrender.com/)
-
 ## 🛠 Tech Stack  
 
 ### Languages  
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)  
-
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)  
 
 ### Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)  
 
 ### Backend  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)  
-![Next.js](https://img.shields.io/badge/next.js-black?logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-black?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)  
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)  
 
 ### Tools & Platforms  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)  
-![Render](https://img.shields.io/badge/render-%2300C7B7.svg?logo=render&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) ![Render](https://img.shields.io/badge/render-%2300C7B7.svg?logo=render&logoColor=white) ![Weebly](https://img.shields.io/badge/Weebly-%2300AACC.svg?logo=weebly&logoColor=white)  
+
 
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=shipali-k-account&theme=radical&hide_border=false&include_all_commits=false&count_private=true)  
