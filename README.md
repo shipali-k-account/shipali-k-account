@@ -36,13 +36,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=shipali-k-account&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
 ## 💬 Dev Quote  
 
-![Quote](https://img.shields.io/badge/%F0%9F%A7%A0%20First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%20--%20John%20Johnson-%23ff4b5c?style=for-the-badge)
-
-
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Dev quote"/>
+</p>
 
 ## 🔝 Top Contributed Repos  
 ![](https://github-contributor-stats.vercel.app/api?username=shipali-k-account&limit=5&theme=radical&combine_all_yearly_contributions=true)
