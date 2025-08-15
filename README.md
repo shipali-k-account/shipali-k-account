@@ -7,7 +7,7 @@
 - 💡 Eager to contribute to **open-source projects** and collaborate with developers worldwide.  
 - 🐍 Strong interest in **Python programming**, especially in building web applications using Flask & Django.   
 - 🎯 Goal: Become a **full-time software developer** and active open-source contributor.
-- 
+  
 
 ## 🛠 Tech Stack  
 
