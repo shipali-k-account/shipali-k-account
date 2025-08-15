@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Shipali K</h1>
 <h3 align="center">💻 MCA Student | Python & Web Developer | Open-Source Enthusiast</h3>
 
----
+
 ## 🚀 About Me  
 - 🌟 Passionate about **building projects** that solve real-world problems.  
 - 💡 Eager to contribute to **open-source projects** and collaborate with developers worldwide.  
@@ -35,7 +35,7 @@
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=shipali-k-account&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
 ## 💬 Dev Quote  
 
 <p align="center">
@@ -45,7 +45,7 @@
 ## 🔝 Top Contributed Repos  
 ![](https://github-contributor-stats.vercel.app/api?username=shipali-k-account&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
+
 
 ## ✨ Open Source Goals for 2025  
 - Contribute to **GSSoC 2025** projects  
@@ -53,7 +53,7 @@
 - Collaborate with developers worldwide 🌍  
 - Mentor new contributors after gaining experience  
 
----
+
 
 💌 **Let's Collaborate!** — Reach me via [LinkedIn](https://www.linkedin.com/in/shipali-k-a38b42291/) or [Email](mailto:preethikotyan17@gmail.com)
 
