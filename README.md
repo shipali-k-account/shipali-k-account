@@ -46,15 +46,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shipali-k-account&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-
-## ✨ Open Source Goals for 2025  
-- Contribute to **GSSoC 2025** projects  
-- Create 3+ public projects useful for beginners  
-- Collaborate with developers worldwide 🌍  
-- Mentor new contributors after gaining experience  
-
-
-
 ## 💌 Let's Collaborate!  
 
 <p align="center">
